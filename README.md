@@ -29,6 +29,12 @@ samatahs50@gmail.com
  😝 Fun Fact:
 My code works 50% of the time… and the other 50% I just pretend it works 😆
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SamataHS&theme=coral&hide_border=true" />
+</p>
+
+
+
 
 <h2 align="center" style="font-size: 32px; font-weight: bold;">
  🧰 Languages & Frameworks
