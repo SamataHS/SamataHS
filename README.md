@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+Folks!;I+am+Samata;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+
 
 <!--
 **SamataHS/SamataHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +17,6 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://komarev.com/ghpvc/?username=SamataHS&label=Profile%20Views&color=0e75b6&style=flat)
 <p align="center">
+  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,github,git,vscode,java,cpp" />
 </p>
