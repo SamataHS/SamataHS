@@ -30,9 +30,8 @@ samatahs50@gmail.com
 My code works 50% of the time… and the other 50% I just pretend it works 😆
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamataHS&theme=coral&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SamataHS&theme=blue-green&hide_border=true" />
 </p>
-
 
 
 
