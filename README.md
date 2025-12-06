@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+Folks!;I+am+Samata;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=0433FF&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Hi+👋;I+am+Samata;Welcome+to+my+GitHub+Profile+⭐)](https://git.io/typing-svg)
+
+
+
 
 
 <!--
