@@ -41,7 +41,7 @@ My code works 50% of the time… and the other 50% I just pretend it works 😆
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,github,git,vscode,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,github,git,vscode,cpp" />
 </p>
 
 
